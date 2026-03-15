@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="60" fill="#16a34a"/>
+  <!-- Dollar sign -->
+  <g transform="translate(250,200)" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30,-80 C30,-80 -50,-80 -50,-45 C-50,-10 50,0 50,35 C50,70 -30,75 -30,75"/>
+    <line x1="0" y1="-100" x2="0" y2="95"/>
+  </g>
+  <!-- Curved arrows -->
+  <g fill="#ffffff">
+    <!-- Right arrow -->
+    <path d="M320,150 C350,120 370,140 370,140 L380,120 L350,115 L360,135 C360,135 340,125 320,150Z" opacity="0.85"/>
+    <path d="M340,130 A80,80 0 0,1 340,270" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+    <polygon points="345,268 360,290 330,285"/>
+    <!-- Left arrow -->
+    <path d="M160,130 A80,80 0 0,0 160,270" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+    <polygon points="155,132 140,110 170,115"/>
+  </g>
+  <text x="250" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">CURRENCY</text>
+</svg>
